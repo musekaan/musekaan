@@ -1,61 +1,72 @@
-# 👋 Hi, I'm Muskaan  
+# Hi, I'm Muskaan 👋
 
-🎯 **Data Analyst | Data Science Enthusiast (IIT Madras)**  
+> *Business Economics grad turned data nerd. Currently at IIT Madras doing a Data Science diploma — because apparently one degree wasn't enough of a challenge.*
 
-I enjoy solving problems with **data-driven approaches** — from cleaning and exploring datasets to building **machine learning models** that deliver measurable results. Currently, I’m pursuing a **Diploma in Data Science (IIT Madras)** and working on projects to sharpen my analytical and technical skills.  
-
----
-
-## 🚀 Skills & Tools  
-- **Programming & Data**: Python | SQL | Pandas | NumPy | Scikit-Learn | Excel  
-- **Visualization**: Matplotlib | Seaborn | Plotly | Power BI / Tableau (learning)  
-- **Machine Learning**: Regression | Classification | Model Evaluation | Feature Engineering  
-- **Other**: Data Cleaning | EDA | Statistical Analysis  
+I'm someone who got a 98.41 percentile in CAT, said "you know what, ML sounds more fun than an MBA", and hasn't looked back since. I like finding patterns in messy data, building things that actually work, and occasionally asking *why does this model hate Mondays?* (spoiler: cinema footfall does not.)
 
 ---
 
-## 📌 Featured Projects  
+## 📊 What I've been building
 
-🔹 [**Cinema Audience Prediction**](https://github.com/musekaan/cinema_audience_forecasting)  
-*Built ML models to predict customer ratings based on reviews (Kaggle project).*  
-Tech: Python, Pandas, Scikit-learn, Random Forest, GridSearchCV  
-
-🔹 [**Flight Price Prediction**](#)  
-*Developed an end-to-end ML pipeline for predicting airline ticket prices.*  
-Tech: Python, Pandas, Matplotlib, Linear Regression, Decision Trees  
-
-🔹 [**Interactive Data Dashboards**](#)  
-*Created dashboards in Excel/Power BI to visualize consumer trends and insights.*  
+**📈 Business Performance Dashboard** — Power BI, but make it actually useful  
+`Power BI` `DAX` `Power Query` `Data Modeling`  
+KPI cards, maps, treemaps, YoY metrics, time-intelligence — the works. Built calendar tables and DAX measures for Net Revenue, Revenue Share, and previous year comparisons. The kind of dashboard a business would actually open every morning.
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Machine Learning (IIT Madras coursework)  
-- Dashboard building in **Excel & Power BI**  
-- Model deployment with **Streamlit & GitHub Pages**  
+**🎬 Cinema Audience Footfall Prediction** — Turns out Mondays have a pattern  
+`Python` `XGBoost` `CatBoost` `Scikit-learn`  
+Top 22% (568/2632) in an IIT Madras Kaggle competition. Full pipeline — EDA, feature engineering, cross-validation. Discovered a consistent Monday spike in footfall that nobody was talking about.
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskaan-685030203)  
-[![Kaggle](https://img.shields.io/badge/Kaggle?logo=github&logoColor=white)](https://www.kaggle.com/muskaan0105)  
+**✈️ Flight Price Prediction** — R² of 0.972, because close enough isn't good enough  
+`XGBoost` `CatBoost` `Random Forest` `Scikit-learn`  
+End-to-end ML pipeline with preprocessing, feature engineering, and hyperparameter tuning. Compared multiple ensemble models. The number speaks for itself.
 
 ---
 
-⭐ *Excited to collaborate on Data Science projects and real-world applications!*  
+**🤖 Assignment Solver (LLM + ETL Pipeline)** — I automated the annoying part  
+`Python` `Flask` `REST APIs`  
+Flask app that uses LLMs to solve analytical assignments via structured prompts. ETL pipelines for CSV, Excel, JSON, TXT, ZIP. Exposed as a microservice. It was a fun build.
 
+---
 
-<!--
-**musekaan/musekaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎵 Music Genre Classifier** — Because Spotify genres aren't confusing enough already  
+`PyTorch` `Librosa` `Transformers` `Optuna` `W&B`  
+Built a CNN + CRNN + AST ensemble on mixed-genre mashups (yes, the data was as chaotic as it sounds). Went from rank 271 → 63, F1 score from ~0.81 → **0.92**. The secret? The noise augmentation wasn't noisy enough. Life lesson.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+```
+Languages    →  Python, SQL
+ML/DL        →  PyTorch, Scikit-learn, XGBoost, CatBoost, Transformers
+Data          →  Pandas, NumPy, Librosa
+Experiments  →  Optuna, W&B
+Visualization →  Power BI + DAX, Tableau, Matplotlib
+Other         →  Flask, REST APIs, Excel (advanced), Canva, Photoshop
+```
+
+---
+
+## 📚 Background
+
+- 🎓 **Diploma in Data Science** — IIT Madras *(ongoing, 2024–2026)*
+- 🎓 **B.A. (Hons.) Business Economics** — Gargi College, Delhi University
+- 📊 **Media Trainee** @ Dentsu Aegis — audience analytics, campaign strategy, GWI research
+- 🏆 CAT 2022: **98.41 percentile** | DILR: **99.79**
+- 🥇 AIR 13 in BHU entrance | State Rank 36, International Informatics Olympiad
+
+---
+
+## 📫 Let's talk
+
+If you're working on something interesting in data analytics, ML, or media analytics — or just want to debate whether CatBoost actually beats XGBoost (it depends, don't @ me):
+
+📧 sayhitomuskaan@gmail.com
+
+---
+
+*Currently open to data analytics and data science roles. Delhi NCR / remote preferred.*
