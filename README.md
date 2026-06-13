@@ -16,7 +16,7 @@ I enjoy solving problems with **data-driven approaches** — from cleaning and e
 
 ## 📌 Featured Projects  
 
-🔹 [**Restaurant Rating Prediction**](#)  
+🔹 [**Cinema Audience Prediction**](#https://github.com/musekaan/cinema_audience_forecasting)  
 *Built ML models to predict customer ratings based on reviews (Kaggle project).*  
 Tech: Python, Pandas, Scikit-learn, Random Forest, GridSearchCV  
 
