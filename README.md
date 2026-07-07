@@ -14,7 +14,7 @@ KPI cards, maps, treemaps, YoY metrics, time-intelligence — the works. Built c
 
 ---
 
-**🎬 Cinema Audience Footfall Prediction** — Turns out Mondays have a pattern  
+**🎬 Cinema Audience Footfall Prediction** [View](https://github.com/musekaan/cinema_audience_forecasting)— Turns out Mondays have a pattern  
 `Python` `XGBoost` `CatBoost` `Scikit-learn`  
 Top 22% (568/2632) in an IIT Madras Kaggle competition. Full pipeline — EDA, feature engineering, cross-validation. Discovered a consistent Monday spike in footfall that nobody was talking about.
 
