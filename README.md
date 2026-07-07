@@ -8,7 +8,7 @@ I'm someone who got a 98.41 percentile in CAT, said "you know what, ML sounds mo
 
 ## 📊 What I've been building
 
-**📈 Business Performance Dashboard** — Power BI, but make it actually useful  
+**📈 Business Performance Dashboard** — Power BI, but make it actually useful [View](https://github.com/musekaan/green-beverages-financial-dashboard)
 `Power BI` `DAX` `Power Query` `Data Modeling`  
 KPI cards, maps, treemaps, YoY metrics, time-intelligence — the works. Built calendar tables and DAX measures for Net Revenue, Revenue Share, and previous year comparisons. The kind of dashboard a business would actually open every morning.
 
@@ -69,4 +69,4 @@ If you're working on something interesting in data analytics, ML, or media analy
 
 ---
 
-*Currently open to data analytics and data science roles. Delhi NCR / remote preferred.*
+*Currently open to data analytics and data science roles. Delhi NCR / Bengaluru /remote preferred.*
